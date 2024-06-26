@@ -1,0 +1,1 @@
+Colors = {'BGCOLOR': (34, 34, 34), 'CELLCOLOR' : (136, 136, 136)} 
